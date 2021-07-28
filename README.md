@@ -21,7 +21,7 @@ The L293D has two +V pins (8 and 16). The pin '+Vmotor (8) provides the power fo
 
 Normally we can connect both of these to the Arduino 5V pin. We used a powerful motor, or a higher voltage motor. So we provided the motor with a separate power supply using pin 8 connected to the positive power supply and the ground of the second power supply is connected to the ground of the Arduino.
 
-![90](https://user-images.githubusercontent.com/86341464/127260627-1021a032-c04e-48d4-8c5a-ce18632021c4.PNG)
+![18](https://user-images.githubusercontent.com/86341464/127261452-bc240e8d-107b-43c0-816c-abee6a7d66b7.PNG)
 
 
 # Code:
